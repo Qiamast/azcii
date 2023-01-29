@@ -1,7 +1,7 @@
 ---
 name: azcii Issue Template
 about: provide a clear and concise description of the how to make issue
-title: azcii Issue Template
+title: Get Started New Issue From Here ⚙️
 labels: documentation
 assignees: Qiamast
 
