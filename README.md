@@ -1,4 +1,4 @@
-# azcii - Terminal ASCII Artazcii - Terminal ASCII Art
+# azcii - Terminal ASCII Art
 
 `azcii` is a package for Ubuntu and its derivatives that allows you to create and display ASCII art in the terminal. It uses the [art](https://pypi.org/project/art/ "art") package for Python to generate the art.
 
